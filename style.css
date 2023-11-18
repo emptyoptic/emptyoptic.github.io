@@ -1,0 +1,25 @@
+@font-face {
+    font-family: Dina;
+    font-smooth: never;
+    src: url(DinaRemasterII.ttc);
+}
+
+@font-face {
+    font-family: TerminalVector;
+    font-smooth: never;
+    src: url(TerminalVector.ttf);
+}
+
+a:link {
+    color: green;
+    text-decoration: none;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+body {
+    text-align: center;
+    color: green;
+    background-color: black;
+    font-family: TerminalVector;
+}
